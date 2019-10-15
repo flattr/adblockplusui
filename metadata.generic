@@ -3,4 +3,4 @@ basename = adblockplusui
 
 [locales]
 base_path = locale
-default_locale = en_US
+default_locale = pl
