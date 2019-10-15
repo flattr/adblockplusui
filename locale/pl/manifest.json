@@ -1,14 +1,14 @@
 {
   "description": {
-    "message": "Pobierz Adblock Plus — jedno z najpopularniejszych na świecie rozwiązań do blokowania reklam."
+    "message": "Pobierz Blockera — jedno z najpopularniejszych na świecie rozwiązań do blokowania reklam."
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "Blockera"
   },
   "name_devbuild": {
-    "message": "Adblock Plus – wersja rozwojowa"
+    "message": "Blockera – wersja rozwojowa"
   },
   "name_releasebuild": {
-    "message": "Adblock Plus - darmowy adblocker"
+    "message": "Blockera - darmowy Blockeraer"
   }
 }

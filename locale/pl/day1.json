@@ -1,12 +1,12 @@
 {
   "day1_blockelement_description": {
-    "message": "Blokuj je, korzystając z doskonałej funkcji Adblock Plusa do blokowaniu elementów."
+    "message": "Blokuj je, korzystając z doskonałej funkcji Blockera do blokowaniu elementów."
   },
   "day1_blockelement_more": {
     "message": "Dowiedz się, jak"
   },
   "day1_blockelement_screenshot": {
-    "message": "Przykład powiadomienia z ikoną ABP i wyróżnionym przyciskiem „Zablokuj element”."
+    "message": "Przykład powiadomienia z ikoną Blockera i wyróżnionym przyciskiem „Zablokuj element”."
   },
   "day1_blockelement_title": {
     "message": "Masz dość frustrujących cię elementów komentarzy?"
@@ -21,16 +21,16 @@
     "message": "W celu pomocy poprawy jakości blokowania reklam, jako projekt open source, polegamy na doświadczeniu użytkowników, takich jak Ty."
   },
   "day1_community_description_2": {
-    "message": "Jakich funkcji Ci brakuje? Co możemy poprawić? Czy Adblock Plus powoduje nieprawidłowe działanie niektórych witryn?"
+    "message": "Jakich funkcji Ci brakuje? Co możemy poprawić? Czy Blockera powoduje nieprawidłowe działanie niektórych witryn?"
   },
   "day1_community_title": {
-    "message": "Dołącz do społeczności Adblock Plusa"
+    "message": "Dołącz do społeczności Blockera"
   },
   "day1_header_more": {
     "message": "Dowiedz się więcej o złośliwych reklamach"
   },
   "day1_header_title": {
-    "message": "Adblock Plus <strong>w <em1>ciągu ostatnich 30 minut</em1> zablokował <em0>$ads$ reklam</em0></strong>, a niektóre z nich mogły zawierać złośliwą zawartość",
+    "message": "Blockera <strong>w <em1>ciągu ostatnich 30 minut</em1> zablokował <em0>$ads$ reklam</em0></strong>, a niektóre z nich mogły zawierać złośliwą zawartość",
     "placeholders": {
       "ads": {
         "content": "$1",
@@ -39,7 +39,7 @@
     }
   },
   "notification_day1_message": {
-    "message": "To dużo irytujących reklam. <a>Dowiedz się, co jeszcze może blokować Adblock Plus.</a>"
+    "message": "To dużo irytujących reklam. <a>Dowiedz się, co jeszcze może blokować Blockera.</a>"
   },
   "notification_day1_title": {
     "message": "Zablokowaliśmy już $ads$ reklam!",

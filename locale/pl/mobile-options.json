@@ -24,7 +24,7 @@
     "message": "Dodaj własny zestaw filtrów"
   },
   "mops_header": {
-    "message": "Adblock Plus Ustawienia"
+    "message": "Blockera Ustawienia"
   },
   "mops_subscribe_header": {
     "message": "Dodaj własny zestaw filtrów"
@@ -39,6 +39,6 @@
     "message": "Zestawy filtrów"
   },
   "mops_title": {
-    "message": "Adblock Plus Ustawienia"
+    "message": "Blockera Ustawienia"
   }
 }

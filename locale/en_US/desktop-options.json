@@ -1,7 +1,7 @@
 {
   "options_aa_opt_out_survey": {
     "description": "https://gitlab.com/eyeo/specs/spec/blob/7daa26676865fc640146c8b5ad4146e6a17e171a/spec/abp/options-page.md#acceptable-ads-opt-out-survey",
-    "message": "To help us improve Adblock Plus, mind sharing why you’ve turned off Acceptable Ads?"
+    "message": "To help us improve Blockera, mind sharing why you’ve turned off Acceptable Ads?"
   },
   "options_aa_opt_out_survey_ok": {
     "description": "https://gitlab.com/eyeo/specs/spec/blob/7daa26676865fc640146c8b5ad4146e6a17e171a/spec/abp/options-page.md#acceptable-ads-opt-out-survey",
@@ -13,7 +13,7 @@
   },
   "options_page_document_title": {
     "description": "Options page title",
-    "message": "Adblock Plus Options"
+    "message": "Blockera Options"
   },
   "options_page_title": {
     "description": "Page title in navigation sidebar",
@@ -41,7 +41,7 @@
   },
   "options_footer_about": {
     "description": "Sidebar button label",
-    "message": "About Adblock Plus"
+    "message": "About Blockera"
   },
   "options_learn_more": {
     "description": "Text for `Learn more` link",
@@ -53,7 +53,7 @@
   },
   "options_general_description": {
     "description": "General tab description",
-    "message": "Determine what Adblock Plus shows and hides on websites"
+    "message": "Determine what Blockera shows and hides on websites"
   },
   "options_new_label": {
     "description": "Label of the new elements. Currently on hold for possible future usage.",
@@ -117,7 +117,7 @@
   },
   "options_acceptableAds_ads_description_1": {
     "description": "Acceptable Ads section 'Allow some nonintrusive ads' option description in General tab",
-    "message": "Acceptable Ads are not annoying and do not interfere with the content you are viewing. <a>Read more about the Acceptable Ads criteria</a>"
+    "message": "Acceptable Ads are not annoying and do not interfere with the content you are viewing."
   },
   "options_acceptableAds_privacy_label": {
     "description": "Acceptable Ads section option label in General tab",
@@ -142,7 +142,7 @@
   },
   "options_language_description": {
     "description": "Language section description in General tab",
-    "message": "Optimize Adblock Plus for the language(s) you typically browse websites in."
+    "message": "Optimize Blockera for the language(s) you typically browse websites in."
   },
   "options_language_empty": {
     "description": "Language section language list empty text in General tab",
@@ -176,7 +176,7 @@
   },
   "options_more_filters_description": {
     "description": "More filters section description in General tab",
-    "message": "These are additional filters you previously added to Adblock Plus."
+    "message": "These are additional filters you previously added to Blockera."
   },
   "options_more_filters_note": {
     "description": "More filters section note in General tab",
@@ -221,7 +221,7 @@
   },
   "options_advanced_description": {
     "description": "Advanced tab description",
-    "message": "Customize Adblock Plus, add or remove filter lists, create and maintain your own filter lists"
+    "message": "Customize Blockera, add or remove filter lists, create and maintain your own filter lists"
   },
   "options_customize_header": {
     "description": "Section title in Advanced tab",
@@ -241,10 +241,10 @@
   },
   "options_customize_showDevToolsPanel": {
     "description": "Option label of customize section in Advanced tab",
-    "message": "Show 'Adblock Plus' panel in developer tools"
+    "message": "Show 'Blockera' panel in developer tools"
   },
   "options_customize_showDevToolsPanel_tooltip": {
-    "description": "Tooltip text for Show 'Adblock Plus' panel option item of customize section in Advanced tab",
+    "description": "Tooltip text for Show 'Blockera' panel option item of customize section in Advanced tab",
     "message": "View blocked and whitelisted items from your browser's developer tools panel."
   },
   "options_customize_showNotifications": {
@@ -253,7 +253,7 @@
   },
   "options_customize_showNotifications_tooltip": {
     "description": "Tooltip text for Show notifications option item of customize section in Advanced tab",
-    "message": "Allow notifications from Adblock Plus (notifications related to critical performance issues will always be shown)."
+    "message": "Allow notifications from Blockera (notifications related to critical performance issues will always be shown)."
   },
   "options_filterList_title": {
     "description": "Section title in Advanced tab",
@@ -261,7 +261,7 @@
   },
   "options_filterList_description": {
     "description": "Filter lists section description in Advanced tab",
-    "message": "Each Adblock Plus setting functions because of a filter list. Below are the filter lists that correspond to all of your Adblock Plus settings. You can also add additional filters created and maintained by our trusted community."
+    "message": "Each Blockera setting functions because of a filter list. Below are the filter lists that correspond to all of your Blockera settings. You can also add additional filters created and maintained by our trusted community."
   },
   "options_filterList_column_status": {
     "description": "Column name of filter list table in Advanced tab",
@@ -277,7 +277,7 @@
   },
   "options_filterList_empty": {
     "description": "Empty text of filter list table in Advanced tab",
-    "message": "You have not added any filter lists to Adblock Plus. Filter lists you add will be shown here."
+    "message": "You have not added any filter lists to Blockera. Filter lists you add will be shown here."
   },
   "options_filterList_now": {
     "description": "Text inside 'Last update' column in Advanced tab",
@@ -309,7 +309,7 @@
   },
   "options_customFilters_description": {
     "description": "Custom filter lists section description in Advanced tab",
-    "message": "Create and maintain your own filters to further control what content Adblock Plus allows or blocks. <a0>Learn how to write filters (English only)</a0>"
+    "message": "Create and maintain your own filters to further control what content Blockera allows or blocks."
   },
   "options_customFilters_widget_title": {
     "description": "Custom filter widget title in Advanced tab",
@@ -383,11 +383,11 @@
     "message": "Email:"
   },
   "options_dialog_about_title": {
-    "description": "Title of about ABP dialog",
-    "message": "About Adblock Plus"
+    "description": "Title of about Blockera dialog",
+    "message": "About Blockera"
   },
   "options_dialog_about_version": {
-    "description": "Version information in 'about Adblock Plus' modal dialog",
+    "description": "Version information in 'about Blockera' modal dialog",
     "message": "Version number $version$",
     "placeholders": {
       "version": {
@@ -397,8 +397,8 @@
     }
   },
   "options_dialog_about_copyright": {
-    "description": "Copyright information in 'about Adblock Plus' modal dialog",
-    "message": "Copyright © $currentYear$ <a0>eyeo GmbH</a0>.",
+    "description": "Copyright information in 'about Blockera' modal dialog",
+    "message": "Copyright © $currentYear$ <a0>Flattr AB</a0> a subsidiary of <a0>eyeo GmbH</a0>.",
     "placeholders": {
       "currentYear": {
         "content": "$1",
@@ -407,8 +407,8 @@
     }
   },
   "options_dialog_about_trademark": {
-    "description": "Trademark information in 'about Adblock Plus' modal dialog",
-    "message": "All rights reserved. Adblock Plus® is a registered trademark of eyeo GmbH."
+    "description": "Trademark information in 'about Blockera' modal dialog",
+    "message": "All rights reserved. Blockera® is a registered trademark of Flattr AB a subsidiary of eyeo GmbH."
   },
   "options_dialog_predefined_confirm": {
     "description": "Confirming to add a predefined subscription when asked in a dialog",
@@ -455,10 +455,10 @@
   },
   "options_rating_description": {
     "description": "https://gitlab.com/eyeo/specs/spec/blob/8f12811171d57b7499d50514283c6ec2d0247b05/spec/abp/options-page.md#store-rating",
-    "message": "Please take a moment and help spread the word by rating Adblock Plus. Thanks for your support!"
+    "message": "Please take a moment and help spread the word by rating Blockera. Thanks for your support!"
   },
   "options_rating_title": {
     "description": "https://gitlab.com/eyeo/specs/spec/blob/8f12811171d57b7499d50514283c6ec2d0247b05/spec/abp/options-page.md#store-rating",
-    "message": "Enjoying Adblock Plus?"
+    "message": "Enjoying Blockera?"
   }
 }

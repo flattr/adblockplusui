@@ -33,7 +33,7 @@
   },
   "mops_header": {
     "description": "Mobile options page title",
-    "message": "Adblock Plus settings"
+    "message": "Blockera settings"
   },
   "mops_subscribe_header": {
     "description": "Label for finishing adding a new filter list manually",
@@ -53,6 +53,6 @@
   },
   "mops_title": {
     "description": "Mobile options page title",
-    "message": "Adblock Plus settings"
+    "message": "Blockera settings"
   }
 }

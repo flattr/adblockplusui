@@ -1,6 +1,6 @@
 {
   "firstRun_browser_description": {
-    "message": "Zespół twórców rozszerzenia Adblock Plus, najpopularniejszej funkcji blokowania reklam dla przeglądarek na komputery, stworzył przeglądarkę Adblock Browser dostępną już teraz na urządzenia Android oraz iOS."
+    "message": "Zespół twórców rozszerzenia Blockera, najpopularniejszej funkcji blokowania reklam dla przeglądarek na komputery, stworzył przeglądarkę Blockera Browser dostępną już teraz na urządzenia Android oraz iOS."
   },
   "firstRun_browser_store_android": {
     "message": "Aplikacja dla systemu Android w sklepie Google Play"
@@ -18,7 +18,7 @@
     "message": "Masz kontrolę"
   },
   "firstRun_fair_description": {
-    "message": "Zachęcamy do korzystania z Adblock Plus z wybraną opcją dozwolonych witryn internetowych. Użytkownik rozumie i akceptuje, że w zależności od używanych filtrów mogą pojawić się niezamierzone wyniki (przykładowo zablokowana treść witryn). Aby uzyskać więcej informacji o użytkowaniu Adblock Plus z zachowaniem zasad fair, patrz <a0>Warunki użytkowania</a0>."
+    "message": "Zachęcamy do korzystania z Blockera z wybraną opcją dozwolonych witryn internetowych. Użytkownik rozumie i akceptuje, że w zależności od używanych filtrów mogą pojawić się niezamierzone wyniki (przykładowo zablokowana treść witryn). Aby uzyskać więcej informacji o użytkowaniu Blockera z zachowaniem zasad fair, patrz <a0>Warunki użytkowania</a0>."
   },
   "firstRun_fair_title": {
     "message": "Użytkowanie fair"
@@ -30,21 +30,21 @@
     "message": "Instalacja powiodła się!"
   },
   "firstRun_warning_dataCorrupted_intro": {
-    "message": "Niektórzy użytkownicy mają problemy podczas otwierania tej strony przy każdym uruchomieniu przeglądarki. Problem można rozwiązać poprzez odinstalowanie i ponowne zainstalowanie Adblock Plus:"
+    "message": "Niektórzy użytkownicy mają problemy podczas otwierania tej strony przy każdym uruchomieniu przeglądarki. Problem można rozwiązać poprzez odinstalowanie i ponowne zainstalowanie Blockera:"
   },
   "firstRun_warning_dataCorrupted_note": {
-    "message": "Aby uzyskać dalszą pomoc, skontaktuj się z nami pod adresem: <a0>support@adblockplus.org</a0> lub odwiedź nasze <a1>Centrum pomocy</a1>."
+    "message": ""
   },
   "firstRun_warning_dataCorrupted_step1": {
     "message": "Otwórz kartę rozszerzeń przeglądarki."
   },
   "firstRun_warning_dataCorrupted_step2": {
-    "message": "Znajdź rozszerzenie Adblock Plus i usuń je."
+    "message": "Znajdź rozszerzenie Blockera i usuń je."
   },
   "firstRun_warning_dataCorrupted_step3": {
-    "message": "Zainstaluj Adblock Plus z witryny <a>adblockplus.org</a>."
+    "message": "Zainstaluj Blockera z witryny <a>https://addons.mozilla.org/pl/firefox/addon/blockera-free-ad-blocker/</a>."
   },
   "firstRun_warning_reinitialized": {
-    "message": "Wygląda na to, że błąd spowodował usunięcie wszystkich filtrów i nie udało nam się ich przywrócić z kopii zapasowej. Dlatego musieliśmy zresetować Twoje filtry i ustawienia Akceptowalnych reklam. Przejrzyj listę filtrów i ustawienia Akceptowalnych reklam w <a>opcjach Adblock Plus</a>."
+    "message": "Wygląda na to, że błąd spowodował usunięcie wszystkich filtrów i nie udało nam się ich przywrócić z kopii zapasowej. Dlatego musieliśmy zresetować Twoje filtry i ustawienia Akceptowalnych reklam. Przejrzyj listę filtrów i ustawienia Akceptowalnych reklam w <a>opcjach Blockera</a>."
   }
 }

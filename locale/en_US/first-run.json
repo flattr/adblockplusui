@@ -1,6 +1,6 @@
 {
   "firstRun_browser_description": {
-    "message": "From the team behind Adblock Plus, the most popular ad blocker for desktop browsers, Adblock Browser is now available for your Android and iOS devices."
+    "message": "From the team behind Blockera, the most popular ad blocker for desktop browsers, Adblock Browser is now available for your Android and iOS devices."
   },
   "firstRun_browser_store_android": {
     "message": "Android app on Google Play"
@@ -12,13 +12,13 @@
     "message": "Adblock Browser app"
   },
   "firstRun_control_description": {
-    "message": "By default, you may see some nonintrusive ads that adhere to <a0>strict criteria</a0>. We identify these ads as Acceptable Ads. Prefer to block all ads? <a1>Turn off Acceptable Ads</a1> in your <a2>Settings</a2>."
+    "message": "By default, Blockera hides even the most nonintrusive ads. Ads that adhere to <a0>strict criteria</a0>. We identify these ads as Acceptable Ads. Prefer to allow these nonintrusive ads? Turn on Acceptable Ads in your <a2>Settings</a2>."
   },
   "firstRun_control_title": {
     "message": "You're in control"
   },
   "firstRun_fair_description": {
-    "message": "We encourage you to make fair use of Adblock Plus and the option to whitelist websites. Depending on the filters you use, you understand and accept that unintentional results might occur (e.g. blocked content on a website). Refer to the <a0>Terms of Use</a0> for more information about fair use of Adblock Plus."
+    "message": "We encourage you to make fair use of Blockera and the option to whitelist websites. Depending on the filters you use, you understand and accept that unintentional results might occur (e.g. blocked content on a website). Refer to the <a0>Terms of Use</a0> for more information about fair use of Blockera."
   },
   "firstRun_fair_title": {
     "message": "Fair use"
@@ -31,11 +31,11 @@
   },
   "firstRun_warning_dataCorrupted_intro": {
     "description": "Text shown at beginning of warning being shown when data corruption was detected",
-    "message": "Some users are experiencing an issue where this page opens each time their browser is launched. This issue can be resolved by uninstalling and reinstalling Adblock Plus:"
+    "message": "Some users are experiencing an issue where this page opens each time their browser is launched. This issue can be resolved by uninstalling and reinstalling Blockera:"
   },
   "firstRun_warning_dataCorrupted_note": {
     "description": "Footnote at the end of warning being shown when data corruption was detected",
-    "message": "If you still need help, contact us at <a0>support@adblockplus.org</a0> or visit our <a1>Help Center</a1>."
+    "message": ""
   },
   "firstRun_warning_dataCorrupted_step1": {
     "description": "First step of instructions in warning being shown when data corruption was detected",
@@ -43,13 +43,13 @@
   },
   "firstRun_warning_dataCorrupted_step2": {
     "description": "Second step of instructions in warning being shown when data corruption was detected",
-    "message": "Locate Adblock Plus and remove it."
+    "message": "Locate Blockera and remove it."
   },
   "firstRun_warning_dataCorrupted_step3": {
     "description": "Third step of instructions in warning being shown when data corruption was detected",
-    "message": "Reinstall Adblock Plus from <a>adblockplus.org</a>."
+    "message": "Reinstall Blockera from <a>https://addons.mozilla.org/en-US/firefox/addon/blockera-free-ad-blocker/</a>."
   },
   "firstRun_warning_reinitialized": {
-    "message": "It seems that an issue caused all filters to be removed and we were unable to restore a backup. Therefore we had to reset your filters and Acceptable Ads settings. Please check your filter lists and Acceptable Ads settings in the <a>Adblock Plus options</a>."
+    "message": "It seems that an issue caused all filters to be removed and we were unable to restore a backup. Therefore we had to reset your filters and Acceptable Ads settings. Please check your filter lists and Acceptable Ads settings in the <a>Blockera options</a>."
   }
 }

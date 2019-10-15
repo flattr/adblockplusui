@@ -45,10 +45,10 @@
     "message": "E-mail:"
   },
   "issueReporter_errorMessage": {
-    "message": "Próba wysłania zgłoszenia nie powiodła się z powodu „?1?”. Sprawdź połączenie z internetem i ponów próbę. Jeśli problem będzie nadal występował, poproś o pomoc na [link]forum Adblock Plusa[/link]."
+    "message": "Próba wysłania zgłoszenia nie powiodła się z powodu „?1?”. Sprawdź połączenie z internetem i ponów próbę. Jeśli problem będzie nadal występował, poproś o pomoc na [link]forum Blockera[/link]."
   },
   "issueReporter_falseNegative_description": {
-    "message": "Adblock Plus jest włączony, ale nadal widzę reklamę lub reklamy."
+    "message": "Blockera jest włączony, ale nadal widzę reklamę lub reklamy."
   },
   "issueReporter_falseNegative_label": {
     "message": "Widzę reklamy"
@@ -81,7 +81,7 @@
     "message": "Przetwarzanie"
   },
   "issueReporter_screenreader_warning": {
-    "message": "Abyśmy lepiej zrozumieli problem, wraz ze zgłoszeniem należy przesłać zrzut ekranu. W zależności od aktualnie otwartej witryny zrzut ekranu może zawierać prywatne dane. Jeśli wolisz nie przesyłać zrzutu ekranu, prześlij opis problemu we wiadomości e-mail na adres <a0>support@adblockplus.org</a0>."
+    "message": "Abyśmy lepiej zrozumieli problem, wraz ze zgłoszeniem należy przesłać zrzut ekranu. W zależności od aktualnie otwartej witryny zrzut ekranu może zawierać prywatne dane. Jeśli wolisz nie przesyłać zrzutu ekranu, prześlij opis problemu we wiadomości e-mail na adres <a0>support@Blockeraplus.org</a0>."
   },
   "issueReporter_screenshot_hide": {
     "message": "Ukryj"

@@ -36,7 +36,7 @@
     }
   },
   "unexpected_filter_list_header": {
-    "description": "Error message shown when the user attempts to add a custom filter that has the format of a header (e.g. \"[Adblock Plus 2.0]\") which are only allowed in filter lists",
+    "description": "Error message shown when the user attempts to add a custom filter that has the format of a header (e.g. \"[Blockera 2.0]\") which are only allowed in filter lists",
     "message": "Filter list headers aren't allowed here"
   }
 }

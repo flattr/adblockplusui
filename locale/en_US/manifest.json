@@ -1,17 +1,17 @@
 {
   "description": {
     "description": "Note: this cannot be longer than 132 characters",
-    "message": "Download Adblock Plus, one of the world's most popular ad blockers."
+    "message": "Download Blockera, a sublime refinement to one of the world's most popular ad blockers."
   },
   "name": {
-    "message": "Adblock Plus"
+    "message": "Blockera"
   },
   "name_releasebuild": {
     "description": "Extension name to be shown for release builds. Note: this cannot be longer than 45 characters.",
-    "message": "Adblock Plus - free ad blocker"
+    "message": "Blockera - free ad blocker"
   },
   "name_devbuild": {
     "description": "Extension name to be shown for development builds. Note: this cannot be longer than 45 characters.",
-    "message": "Adblock Plus development build"
+    "message": "Blockera development build"
   }
 }
